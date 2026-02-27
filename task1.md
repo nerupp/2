@@ -107,8 +107,8 @@ Open the forwarded port (Codespaces "Ports" tab) and confirm the page loads.
 
 Here is the default Next.js starter page you should see:
 
-> [SCREENSHOT PLACEHOLDER — After run<img width="906" height="941" alt="c7bf9969c67b230920adad937e9080a" src="https://github.com/user-attachments/assets/3574c4d4-2566-49d9-a02e-25f300c35372" />
-ning the dev server, capture the Next.js starter page and save a screenshot here.]
+> <img width="906" height="941" alt="image" src="https://github.com/user-attachments/assets/555fc2ff-776a-4714-8a44-79a7bd509bbf" />
+
 
 
 
@@ -140,7 +140,8 @@ This component is the starting page of the AI Summary App. When the page loads, 
 
 Visit the app in your browser again to verify the changes took effect.
 
-> <img width="1191" height="739" alt="image" src="https://github.com/user-attachments/assets/36ced2d5-81b2-45b9-be82-b3d76acfa96b" />
+><img width="1180" height="967" alt="image" src="https://github.com/user-attachments/assets/f924075f-4d7e-4800-9ae9-f57b589afb8e" />
+
 
 
 Start a new terminal
@@ -168,7 +169,8 @@ Then login to Vercel:
 vercel login
 ```
 
-> [SCREENSHOT PLACEHOLDER — After logging into Vercel (or running `vercel login`), capture the login prompt and save a screenshot here.]
+<img width="1180" height="967" alt="image" src="https://github.com/user-attachments/assets/d9005ae4-8191-4ce9-94cf-efc6f1844b44" />
+
 
 Now deploy the app from the `my-app/` folder
 
@@ -318,7 +320,8 @@ Open `http://localhost:3000` and click the **Check backend** button. It should r
 
 Example output:
 
-> [SCREENSHOT PLACEHOLDER — After clicking the backend check button, capture the health-check output and save a screenshot here.]
+> <img width="509" height="271" alt="image" src="https://github.com/user-attachments/assets/c753569f-9cd5-49da-9d48-e8ed1e71a9da" />
+
 
 
 **Commit checkpoint:**
